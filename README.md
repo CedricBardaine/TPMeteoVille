@@ -4,4 +4,4 @@ TP de web lors du DUT
 
 HTML, Bootstrap, JavaScript, Ajax, API
 
-Une version en ligne est accessible à l'addresse : https://cedbdb.ovh/meteoVille/ 
+Une version en ligne est accessible à l'addresse : http://cedbdb.ovh/meteoVille/ 
